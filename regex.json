@@ -1,0 +1,6 @@
+[
+
+   {"apiName": "Aws Access Key Id", "pattern": "[A-Z0-9]{20}" },
+   {"apiName": "Stripe API Key", "pattern":"sk_live_[0-9a-zA-Z]{24}"}
+
+]
